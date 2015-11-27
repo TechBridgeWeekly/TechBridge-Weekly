@@ -6,10 +6,7 @@ http://weekly.techbridge.cc/
 
 目前負責的 Curator（歡迎有興趣朋友跳坑加入策展人團隊:P）
 
-[@kdchang](http://blog.kdchang.cc) 文藝型碼農，夢想是做出人們想用的產品和辦一所心目中理想的學校
-
-[@arvinh](http://cv.arvinh.info) 前端攻城獅，熱愛數據分析和資訊視覺化
-
-[@huli](http://huli.logdown.com) 野生工程師，相信分享與交流能讓世界變得更美好
-
-[@pojenlai](https://pojenlai.wordpress.com/) 演算法工程師，相信技術是讓個人成長、進而提升社會福祉的重要工具
+1. [@kdchang](http://blog.kdchang.cc) 文藝型碼農，夢想是做出人們想用的產品和辦一所心目中理想的學校
+2. [@arvinh](http://cv.arvinh.info) 前端攻城獅，熱愛數據分析和資訊視覺化
+3. [@huli](http://huli.logdown.com) 野生工程師，相信分享與交流能讓世界變得更美好
+4. [@pojenlai](https://pojenlai.wordpress.com/) 演算法工程師，相信技術是讓個人成長、進而提升社會福祉的重要工具
